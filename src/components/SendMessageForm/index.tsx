@@ -17,10 +17,10 @@ export const SendMessageForm = () => {
                <img src={user?.avatar_url} alt={user?.name} />
             </div>
             <strong className={styles.userName}>{user?.name}</strong>
-            <span className={styles.userGithub}>
+            <a href={`https://github.com/${user?.login}`} className={styles.userGithub}>
                <VscGithubInverted size="16" />
                {user?.login}
-            </span>
+            </a>
          </header>
 
          <form className={styles.sendMessageForm} action="">
