@@ -20,6 +20,6 @@ Frontend developed in ReactJS using Vite as ecosystem, so the application has se
 - [SASS](https://sass-lang.com)
 - [Context API](https://reactjs.org/docs/context.html)
 
-More: [React Icons](https://react-icons.github.io/react-icons) / [Axios](https://axios-http.com)
+More: [CSS Modules](https://github.com/css-modules/css-modules) / [React Icons](https://react-icons.github.io/react-icons) / [Axios](https://axios-http.com)
 
 ---
